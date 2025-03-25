@@ -14,10 +14,10 @@
 Azure Migrate is a comprehensive toolset that helps discover, assess, and migrate on-premises workloads to Azure.
 
 ### Types of Data to Collect
-- **Operating System Information:** Version of Ubuntu Linux running on the servers (to ensure compatibility with Azure services).\
-- **Software Inventory:** Information about installed software packages, including NGINX, Node.js, PostgreSQL, Redis, and HAProxy.\
-- **Dependencies:** Identify interdependencies between the web servers (frontend), API servers (backend), database (PostgreSQL), and cache (Redis).\
-- **Server Performance Metrics:** CPU, memory, storage, and network utilization for each of the components to determine the sizing requirements for Azure.\
+- **Operating System Information:** Version of Ubuntu Linux running on the servers (to ensure compatibility with Azure services).
+- **Software Inventory:** Information about installed software packages, including NGINX, Node.js, PostgreSQL, Redis, and HAProxy.
+- **Dependencies:** Identify interdependencies between the web servers (frontend), API servers (backend), database (PostgreSQL), and cache (Redis).
+- **Server Performance Metrics:** CPU, memory, storage, and network utilization for each of the components to determine the sizing requirements for Azure.
 - **Backup and Restore Data:** Current backup schedules and configurations to ensure compliance with Tailwind OpenCare’s backup and recovery requirements.
 
 
