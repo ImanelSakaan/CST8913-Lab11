@@ -6,7 +6,8 @@
 5. HAProxy: Load balancer to distribute traffic across NGINX web servers and Node.js API servers.
 6. Backup System: A local Linux-based backup system to back up the system’s data.
 
-![image](https://github.com/user-attachments/assets/a0f59694-c5b0-4116-8a16-21a9e61c7f6d)
+<img width="508" alt="image" src="https://github.com/user-attachments/assets/614cc2cd-250e-4457-bb6b-d3e28095798e" />
+
 
 
 ## 1. Discovery and Tooling Setup
