@@ -21,7 +21,11 @@ Azure Migrate is a comprehensive toolset that helps discover, assess, and migrat
 - **Backup and Restore Data:** Current backup schedules and configurations to ensure compliance with Tailwind OpenCare’s backup and recovery requirements.
 
 
-**Data to collect:**  OS, software inventory, performance metrics, dependencies, backup schedules.
-
 **Credentials and Permissions:**  Managed using Azure Active Directory and Azure Key Vault for secure storage.
+### Credentials and Permissions Management
+- **Azure Active Directory (AAD):** All migration tools and processes will authenticate through Azure Active Directory to ensure secure access management.
+- **Role-Based Access Control (RBAC):** Azure RBAC will be configured to ensure that only authorized users and groups have the necessary permissions to perform discovery, assessment, and migration tasks.
+- **Credential Storage:** Credentials, such as API keys and database connection details, will be securely stored in Azure Key Vault, ensuring that sensitive information is protected during the migration process.
+
+  ![image](https://github.com/user-attachments/assets/d8497dbd-69c2-494b-bf19-ea01c01a19fc)
 
