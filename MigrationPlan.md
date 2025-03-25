@@ -1,3 +1,14 @@
+## This diagram shows the key components for the application:
+1. Frontend (NGINX): Two web servers handle the frontend requests.
+2. Backend (Node.js API): Two API servers to process requests.
+3. PostgreSQL Database: A central database server for storing patient data.
+4. Redis: Caching layer for better performance.
+5. HAProxy: Load balancer to distribute traffic across NGINX web servers and Node.js API servers.
+6. Backup System: A local Linux-based backup system to back up the system’s data.
+
+
+
+
 ## 1. Discovery and Tooling Setup
 
 **Tools:**  Use Azure Migrate (appliance for agentless discovery and assessment).
