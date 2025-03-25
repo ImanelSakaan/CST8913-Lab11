@@ -8,12 +8,10 @@
 
 <img width="512" alt="image" src="https://github.com/user-attachments/assets/ddd9056d-1314-4719-a7f8-f71dd1ad8f31" />
 
-
-
-
-## 1. Discovery and Tooling Setup
+## <ins>1. Discovery and Tooling Setup</ins>
 
 **Tools:**  Use Azure Migrate (appliance for agentless discovery and assessment).
+Azure Migrate is a comprehensive toolset that helps discover, assess, and migrate on-premises workloads to Azure.
 
 **Data to collect:**  OS, software inventory, performance metrics, dependencies, backup schedules.
 
